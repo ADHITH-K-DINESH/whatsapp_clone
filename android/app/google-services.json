@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "991483925692",
+    "project_id": "whatsapp-messengr-386fc",
+    "storage_bucket": "whatsapp-messengr-386fc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:991483925692:android:9ecdd15a17707323002cb9",
+        "android_client_info": {
+          "package_name": "com.example.whatsapp_messenger"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBw71KMUlDJVRxKyY25l4uEBgPNvg8mI54"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
